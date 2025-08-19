@@ -51,12 +51,3 @@
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>  
 </div>  
 
----
-
-## 📊 GitHub Stats  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcosBarrios&show_icons=true&theme=tokyonight"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosBarrios&theme=tokyonight"/>  
-</div>  
-
----
